@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @jacki5
 - 👀 I’m interested in UX and Usability for Machine Learning and AI Programs
 - 🌱 I’m currently learning Intermediate Python
+- My goal is to create AI programs that solve everyday business problems and make people's work lives better
